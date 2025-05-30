@@ -1,9 +1,10 @@
 <?php
 /**
- * Plugin Name: Roblox Social Icon
+ * Plugin Name: Roblox Social Link
  * Description: Adds a first-class “Roblox” service to the Social Icons block.
  * Version:     1.0
  * Author:      John Shedletsky
+ * License:		MIT
  */
 
 define( 'ROBLOX_SLUG',  'roblox' );
